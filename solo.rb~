@@ -1,0 +1,4 @@
+#Configuration file for chef-solo
+file_cache_path "/home/renato/Documentos/chef"
+cookbook_path "/home/renato/Documentos/chef/prueba/cookbooks"
+json_attribs "/home/renato/Documentos/chef/node.json"
